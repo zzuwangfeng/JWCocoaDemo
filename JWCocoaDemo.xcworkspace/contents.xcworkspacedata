@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:JWDemoCocoaFrame/JWDemoCocoaFrame.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:JWTestFrameAndBounds/JWTestFrameAndBounds.xcodeproj">
    </FileRef>
 </Workspace>

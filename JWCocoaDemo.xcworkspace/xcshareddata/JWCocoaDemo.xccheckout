@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>58F2B2EC-8BDE-4073-841C-73AF6CF85D53</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JWCocoaDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3312AC47-B1ED-43E7-9712-3475636AFF2B</key>
+		<string>https://github.com/zzuwangfeng/JWCocoaDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JWCocoaDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3312AC47-B1ED-43E7-9712-3475636AFF2B</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zzuwangfeng/JWCocoaDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3312AC47-B1ED-43E7-9712-3475636AFF2B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3312AC47-B1ED-43E7-9712-3475636AFF2B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JWCocoaDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

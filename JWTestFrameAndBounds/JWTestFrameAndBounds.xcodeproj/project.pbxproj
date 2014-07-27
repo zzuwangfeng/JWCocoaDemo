@@ -471,6 +471,7 @@
 				0AC338F119820328001D24F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0AC338F219820328001D24F2 /* Build configuration list for PBXNativeTarget "JWTestFrameAndBoundsTests" */ = {
 			isa = XCConfigurationList;
@@ -479,6 +480,7 @@
 				0AC338F419820328001D24F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
